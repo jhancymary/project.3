@@ -8,6 +8,6 @@ OAuth2 or OpenID Connect for secure user authentication.
 3. Authorization:
 Implement Role-Based Access Control (RBAC) to manage access based on user roles.
 4. Security:
-Use AWS Key Management Service (KMS) or Azure Key Vault for managing encryption keys and secrets.
+Use AWS Key Management Service (KMS) 
 5. Multi-Factor Authentication (MFA):
 Include MFA for added security.
