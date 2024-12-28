@@ -3,8 +3,6 @@ CLOUD SECURITY AND IDENTITY MANAGEMENT
 Technologies to Use:
 1. Cloud Platforms:
 AWS IAM
-Azure Active Directory
-Google Cloud Identity
 2. Authentication:
 OAuth2 or OpenID Connect for secure user authentication.
 3. Authorization:
