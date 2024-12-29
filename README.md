@@ -1,14 +1,29 @@
 # project.3
-CLOUD SECURITY AND IDENTITY MANAGEMENT
+Cloud Security and Identity Management Using AWS
 
-Technologies to Use:
-1. Cloud Platforms:
+📌 Project Overview
+
+A cloud-based IAM system leveraging AWS for secure user authentication, authorization, and resource access.
+
+⚙️ Features
+
+Authentication: OAuth2/OpenID Connect for secure login.
+
+Authorization: Role-Based Access Control (RBAC).
+
+Security: AWS Key Management Service (KMS) for managing secrets and keys.
+
+Multi-Factor Authentication (MFA) for enhanced security.
+
+📚 Technologies Used
+
 AWS IAM
-2. Authentication:
-OAuth2 or OpenID Connect for secure user authentication.
-3. Authorization:
-Implement Role-Based Access Control (RBAC) to manage access based on user roles.
-4. Security:
-Use AWS Key Management Service (KMS) 
-5. Multi-Factor Authentication (MFA):
-Include MFA for added security.
+
+OAuth2/OpenID Connect
+
+RBAC
+
+AWS KMS
+
+MFA
+
